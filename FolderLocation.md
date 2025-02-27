@@ -1,7 +1,13 @@
-# DO NOT SCAN NEWSPAPER
-# PRE MARKED SOME NON SCANNABLE SHELVES
-# IF SHELF HAS NEWSPAPER, MARK AS 'NEWSPAPER'
-# IF SHELF HAS A BOX, LABLE 'UNSCANNABLE BOX'
+- This file contains additional information about the cabinets, drawers, and big folders.
+- Here is a list of stuff that need to be marked (and no need to scan)
+    - newspapers, mark as **'newspaper'**
+    - boxes, mark as **'unscannable box'**
+
+# *still editing to adjust format*
+
+# mark the non-scannable shelves
+# if shelf has newspaper, mark as 'newspaper'
+# if shelf has a box, label 'unscannable box'
 
 
 # A
