@@ -1,70 +1,63 @@
-#A
-#-----
+# A
 
 
-#B
-#-----
+# B
 
-#C
-#-----
+# C
 
-#D
-#-----
+# D
 
 
-#E
-#-----
+# E
 
-#F
-#-----
+# F
 
-#G
-#-----
-##1
-###1:  RHAMNUS
-###2:  CEANOTHUS
-##2
-###1:  TILIA
-###2:  MALVIACEAE 
-###3:  ABUTILON
-###4:  ILIAMNA
-###5:  SPHAERALCEA
-##3
-###1:  URENA
-###2:  GAYOIDES
-###3:  HIBISCUS
-###4:  MALVA
-###5:  SIDA
-###6:  PAROSELA
-###7:  MALVAVISCUS
-###8:  GOSSYPIUM
-###9:  SIDALCEA
-##4
-###1:  THEOBROMA
-###2:  HYPERICUM
-###3:  ASCYRUM
-###4:  BERGIA
-###5:  FRANKENIA
-##5
-###1:  FREMONTIA
-###2:  PASSIFLORA
-###3:  TAMARIX
-###4:  HELIANTHEMUM
-###5:  CISTUS
-###6:  VIOLA
-##6
-###1:  MALVASTRUM
-###2:  MENTZELIA
-###3:  EUCNIDE
-###4:  DATISCA
-###5:  BEGONIA
-##7
-###1:  CACTACEAE
-##8
-###1:  OPUNTIA
-###2:  CARNEGIEA
-###3:  ECHINOCEREUS
-###4:  ECHINOCACTUS
-###5:  CORYPHANTHA
-###6:  MAMMILLARIA
-###7:  LEMAIREOCEREUS
+# G
+## 1
+### 1:  RHAMNUS
+### 2:  CEANOTHUS
+## 2
+### 1:  TILIA
+### 2:  MALVIACEAE 
+### 3:  ABUTILON
+### 4:  ILIAMNA
+### 5:  SPHAERALCEA
+## 3
+### 1:  URENA
+### 2:  GAYOIDES
+### 3:  HIBISCUS
+### 4:  MALVA
+### 5:  SIDA
+### 6:  PAROSELA
+### 7:  MALVAVISCUS
+### 8:  GOSSYPIUM
+### 9:  SIDALCEA
+## 4
+### 1:  THEOBROMA
+### 2:  HYPERICUM
+### 3:  ASCYRUM
+### 4:  BERGIA
+### 5:  FRANKENIA
+## 5
+### 1:  FREMONTIA
+### 2:  PASSIFLORA
+### 3:  TAMARIX
+### 4:  HELIANTHEMUM
+### 5:  CISTUS
+### 6:  VIOLA
+## 6
+### 1:  MALVASTRUM
+### 2:  MENTZELIA
+### 3:  EUCNIDE
+### 4:  DATISCA
+### 5:  BEGONIA
+## 7
+### 1:  CACTACEAE
+## 8
+### 1:  OPUNTIA
+### 2:  CARNEGIEA
+### 3:  ECHINOCEREUS
+### 4:  ECHINOCACTUS
+### 5:  CORYPHANTHA
+### 6:  MAMMILLARIA
+### 7:  LEMAIREOCEREUS
