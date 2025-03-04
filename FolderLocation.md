@@ -1,17 +1,26 @@
 - This file contains additional information about the cabinets, drawers, and big folders.
-- Here is a list of stuff that need to be marked (and no need to scan)
+- Here is a list of stuff that need to be marked (and don't need to be scanned)
     - newspapers, mark as **'newspaper'**
     - boxes, mark as **'unscannable box'**
+    - If a whole drawer is unscannable, mark as **'unscannable drawer'**
 
+
+- Format for each drawer: 
+    [shelf number][drawernumber]_[folder number]_[species name(if exist)]: Extra info
+    example: 
+    - "G01_1_RHAMNUS" is drawer 3 in shelf G, the first big folder, it is RHAMNUS
+    - "H08_1:BOX OF NOTE CARDS ??" is drawer 8 in self H, the 1st big folder
+    
+    Note: If a folder only has news paper, number the folder normally, and mark as **'newspaper'**
+    **'newspaper'**, **'unscannable box'**, and **'unscannable drawer'** are all extra info 
 # *still editing to adjust format*
 
-# mark the non-scannable shelves
-# if shelf has newspaper, mark as 'newspaper'
-# if shelf has a box, label 'unscannable box'
+
 
 
 # A
 ## ALL UNSCANABLE EXCEPT PART OF A2
+
 
 # B
 ## ALL UNSCANABLE EXCEPT PART OF B13
