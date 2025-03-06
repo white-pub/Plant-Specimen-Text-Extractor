@@ -2,7 +2,19 @@
 - Here is a list of stuff that need to be marked (and don't need to be scanned)
     - newspapers, mark as **'newspaper'**
     - boxes, mark as **'unscannable box'**
-    - If a whole drawer is unscannable, mark as **'unscannable drawer'**
+    - If a whole drawer is unscannable, mark as **'unscannable'**
+    - other unidentifiable unscannable objects can also just be marked as **'unscannable'**
+    - If you know what the object is, mark as **'unscannable object_name'** like **'unscannable pine cones'**
+
+- Other stuff to mark and in what format:
+    - If a folder or drawer is already marked by biology people, mention that.
+        format example: **A03: marked as "Duplicated"**
+    - If a drawer has some scannable stuff and some unscannable items, mention that and mark it as folder 0
+        format example 1: **A02_0: unscannable box** will let others know that A02 has unscannable box<br>
+        So whenever a drawer has a folder 0, people will know that there are unscannable items in it.<br>
+        format example 2: **A03_0: has pine cones** will let others know that A03 has pine cones
+    
+      
 
 
 - Format for each drawer: 
@@ -50,9 +62,8 @@
 ### B13
 
 
-# C
-- **Note: DO NOT SCAN BOX'S AND PINECONES**
 ## C
+- **Note: Do not scan boxes and pine cones**
 ### C01
 ### C02
 ### C03
@@ -68,7 +79,9 @@
 ### C13
 
 # D
-## DO NOT SCAN BOX'S AND PINECONES
+
+- **Note: Do not scan boxes and pine cones**
+
 
 # E
 
