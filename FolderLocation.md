@@ -12,6 +12,7 @@
     - "H08_1:BOX OF NOTE CARDS ??" is drawer 8 in self H, the 1st big folder
     
     Note: If a folder only has news paper, number the folder normally, and mark as **'newspaper'**
+    
     **'newspaper'**, **'unscannable box'**, and **'unscannable drawer'** are all extra info 
 # *still editing to adjust format*
 
