@@ -7,7 +7,7 @@
     - If you know what the object is, mark as **'unscannable object_name'** like **'unscannable pine cones'**
 
 - Other stuff to mark and in what format:
-    - If a folder or drawer is already marked by biology people, mention that.
+    - If a folder or drawer is already marked by biology people, mention that.<br>
         format example: **A03: marked as "Duplicated"**
     - If a drawer has some scannable stuff and some unscannable items, mention that and mark it as folder 0
         format example 1: **A02_0: unscannable box** will let others know that A02 has unscannable box<br>
@@ -78,94 +78,132 @@
 ### C12
 ### C13
 
-# D
-
+## D
 - **Note: Do not scan boxes and pine cones**
+### D01
+### D02
+### D03
+### D04
+### D05
+### D06
+### D07
+### D08
+### D09
+### D10
+### D11
+### D12
+### D13
+
+## E
+### E01
+### E02
+### E03
+### E04
+### E05
+### E06
+### E07
+### E08
+### E09
+### E10
+### E11
+### E12
+### E13
 
 
-# E
+## F
+### F01
+### F02
+### F03
+### F04
+### F05
+### F06
+### F07
+### F08
+### F09
+### F10
+### F11
+### F12
+### F13
 
 
-# F
 
+## G
+### G01_1_RHAMNUS
+### G01_2_CEANOTHUS
 
-# G
-## 1
-### 1:RHAMNUS
-### 2:CEANOTHUS
-## 2
-### 1:TILIA
-### 2:MALVIACEAE 
-### 3:ABUTILON
-### 4:ILIAMNA
-### 5:SPHAERALCEA
-## 3
-### 1:URENA
-### 2:GAYOIDES
-### 3:HIBISCUS
-### 4:MALVA
-### 5:SIDA
-### 6:PAROSELA
-### 7:MALVAVISCUS
-### 8:GOSSYPIUM
-### 9:SIDALCEA
-## 4
-### 1:THEOBROMA
-### 2:HYPERICUM
-### 3:ASCYRUM
-### 4:BERGIA
-### 5:FRANKENIA
-## 5
-### 1:FREMONTIA
-### 2:PASSIFLORA
-### 3:TAMARIX
-### 4:HELIANTHEMUM
-### 5:CISTUS
-### 6:VIOLA
-## 6
-### 1:MALVASTRUM
-### 2:MENTZELIA
-### 3:EUCNIDE
-### 4:DATISCA
-### 5:BEGONIA
-## 7
-### 1:CACTACEAE
-## 8
-### 1:OPUNTIA
-### 2:CARNEGIEA
-### 3:ECHINOCEREUS
-### 4:ECHINOCACTUS
-### 5:CORYPHANTHA
-### 6:MAMMILLARIA
-### 7:LEMAIREOCEREUS
-## 9
-### 1:DIRCA
-### 2:SHEPHERDIA
-### 3:RHEXIA
-### 4:ELAEAGNUS
-### 5:ROTALA
-### 6:AMMANNIA
-### 7:DECODON
-### 8:LUTHRUM
-### 9:RHIZOPHORA
-## 10
-### 1:CONOCARPUS
-### 2:LAGUNCULARIA
-### 3:NYSSA
-### 4:EUCALYPTUS
-### 5:LEPTOSPERMUM
-### 6:EUGENIA
-### 7:TETRAZYGIA
-## 11
-### 1:JUSSIAEA
-### 2:EPILOBIUM
-### 3:ZAUSCHNERIA
-## 12
-### 1:BIOSDUVALIA
-### 2:CARKIA
-### 3:GODETIA
-## 13
-### 1:OENOTHERA
+### G02_1_TILIA
+### G02_2_MALVIACEAE
+### G02_3_ABUTILON
+### G02_4_ILIAMNA
+### G02_5_SPHAERALCEA
+
+### G03_1_URENA
+### G03_2_GAYOIDES
+### G03_3_HIBISCUS
+### G03_4_MALVA
+### G03_5_SIDA
+### G03_6_PAROSELA
+### G03_7_MALVAVISCUS
+### G03_8_GOSSYPIUM
+### G03_9_SIDALCEA
+
+### G04_1_THEOBROMA
+### G04_2_HYPERICUM
+### G04_3_ASCYRUM
+### G04_4_BERGIA
+### G04_5_FRANKENIA
+
+### G05_1_FREMONTIA
+### G05_2_PASSIFLORA
+### G05_3_TAMARIX
+### G05_4_HELIANTHEMUM
+### G05_5_CISTUS
+### G05_6_VIOLA
+
+### G06_1_MALVASTRUM
+### G06_2_MENTZELIA
+### G06_3_EUCNIDE
+### G06_4_DATISCA
+### G06_5_BEGONIA
+
+### G07_1_CACTACEAE
+
+### G08_1_OPUNTIA
+### G08_2_CARNEGIEA
+### G08_3_ECHINOCEREUS
+### G08_4_ECHINOCACTUS
+### G08_5_CORYPHANTHA
+### G08_6_MAMMILLARIA
+### G08_7_LEMAIREOCEREUS
+
+### G09_1_DIRCA
+### G09_2_SHEPHERDIA
+### G09_3_RHEXIA
+### G09_4_ELAEAGNUS
+### G09_5_ROTALA
+### G09_6_AMMANNIA
+### G09_7_DECODON
+### G09_8_LUTHRUM
+### G09_9_RHIZOPHORA
+
+### G10_1_CONOCARPUS
+### G10_2_LAGUNCULARIA
+### G10_3_NYSSA
+### G10_4_EUCALYPTUS
+### G10_5_LEPTOSPERMUM
+### G10_6_EUGENIA
+### G10_7_TETRAZYGIA
+
+### G11_1_JUSSIAEA
+### G11_2_EPILOBIUM
+### G11_3_ZAUSCHNERIA
+
+### G12_1_BIOSDUVALIA
+### G12_2_CARKIA
+### G12_3_GODETIA
+
+### G13_1_OENOTHERA
+
 
 # H
 ## 1
@@ -225,3 +263,243 @@
 ### 4:---
 ## 13
 ### 0:LOOSE
+
+## I
+### I01
+### I02
+### I03
+### I04
+### I05
+### I06
+### I07
+### I08
+### I09
+### I10
+### I11
+### I12
+### I13
+
+## J
+### J01
+### J02
+### J03
+### J04
+### J05
+### J06
+### J07
+### J08
+### J09
+### J10
+### J11
+### J12
+### J13
+
+## K
+### K01
+### K02
+### K03
+### K04
+### K05
+### K06
+### K07
+### K08
+### K09
+### K10
+### K11
+### K12
+### K13
+
+## L
+### L01
+### L02
+### L03
+### L04
+### L05
+### L06
+### L07
+### L08
+### L09
+### L10
+### L11
+### L12
+### L13
+
+## M
+### M01
+### M02
+### M03
+### M04
+### M05
+### M06
+### M07
+### M08
+### M09
+### M10
+### M11
+### M12
+### M13
+
+## N
+### N01
+### N02
+### N03
+### N04
+### N05
+### N06
+### N07
+### N08
+### N09
+### N10
+### N11
+### N12
+### N13
+
+## O
+### O01
+### O02
+### O03
+### O04
+### O05
+### O06
+### O07
+### O08
+### O09
+### O10
+### O11
+### O12
+### O13
+
+## P
+### P01
+### P02
+### P03
+### P04
+### P05
+### P06
+### P07
+### P08
+### P09
+### P10
+### P11
+### P12
+### P13
+
+## Q
+### Q01
+### Q02
+### Q03
+### Q04
+### Q05
+### Q06
+### Q07
+### Q08
+### Q09
+### Q10
+### Q11
+### Q12
+### Q13
+
+## R
+### R01
+### R02
+### R03
+### R04
+### R05
+### R06
+### R07
+### R08
+### R09
+### R10
+### R11
+### R12
+### R13
+
+## S
+### S01
+### S02
+### S03
+### S04
+### S05
+### S06
+### S07
+### S08
+### S09
+### S10
+### S11
+### S12
+### S13
+
+## T
+### T01
+### T02
+### T03
+### T04
+### T05
+### T06
+### T07
+### T08
+### T09
+### T10
+### T11
+### T12
+### T13
+
+## U
+### U01
+### U02
+### U03
+### U04
+### U05
+### U06
+### U07
+### U08
+### U09
+### U10
+### U11
+### U12
+### U13
+
+## V
+### V01
+### V02
+### V03
+### V04
+### V05
+### V06
+### V07
+### V08
+### V09
+### V10
+### V11
+### V12
+### V13
+
+## W
+### W01
+### W02
+### W03
+### W04
+### W05
+### W06
+### W07
+### W08
+### W09
+### W10
+### W11
+### W12
+### W13
+
+## X
+### X01
+### X02
+### X03
+### X04
+### X05
+### X06
+### X07
+### X08
+### X09
+### X10
+### X11
+### X12
+### X13
