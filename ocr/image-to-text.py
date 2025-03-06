@@ -2,7 +2,8 @@ from rapidocr_onnxruntime import RapidOCR
 
 engine = RapidOCR()
 
-img_path = "<image path>"
+
+img_path = "test-images/20250220_143727.jpg"
 result, _ = engine(img_path)  # Using _ to ignore the elapse time
 
 # Extract just the text from the result
