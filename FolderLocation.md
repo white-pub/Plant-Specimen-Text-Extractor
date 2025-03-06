@@ -34,12 +34,38 @@
 ### A12: unscannable
 ### A13: unscannable
 
+## B
+### B01: unscannable
+### B02: unscannable
+### B03: unscannable
+### B04: unscannable
+### B05: unscannable
+### B06: unscannable
+### B07: unscannable
+### B08: unscannable
+### B09: unscannable
+### B10: unscannable
+### B11: unscannable
+### B12: unscannable
+### B13
 
-# B
-## ALL UNSCANABLE EXCEPT PART OF B13
 
 # C
-## DO NOT SCAN BOX'S AND PINECONES
+- **Note: DO NOT SCAN BOX'S AND PINECONES**
+## C
+### C01
+### C02
+### C03
+### C04
+### C05
+### C06
+### C07
+### C08
+### C09
+### C10
+### C11
+### C12
+### C13
 
 # D
 ## DO NOT SCAN BOX'S AND PINECONES
