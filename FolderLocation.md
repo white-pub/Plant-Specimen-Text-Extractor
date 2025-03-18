@@ -26,7 +26,7 @@
     Note: If a folder only has news paper, number the folder normally, and mark as **'newspaper'**
 
     **'newspaper'**, **'unscannable box'**, and **'unscannable drawer'** are all extra info 
-# *still editing to adjust format*
+
 
 
 
@@ -205,64 +205,65 @@
 ### G13_1_OENOTHERA
 
 
-# H
-## 1
-### 1:GAYOPHYTUM
-### 2:GAURU
-### 3:CIRCAEA
-### 4:STENOSIPHON
-### 5:MYRIOPHYULLUM
-### 6:HIPPURIS
-### 7:GUNNERA
-## 2
-### 1:ARALIA
-### 2:UMBELLIFERAE
-### 3:HYDROCOTYLE
-### 4:BOWLESIA
-### 5:SANICULA
-### 6:CAUCALIS
-### 7:TORILIS
-### 8:CHAEROPHYLLUM
-### 9:ANTHRISCUS
-### 10:SCANDIX
-### 11:OSMORRHIZA
-## 3
-### 1:DAUCUS
-### 2:CONIUM
-### 3:SIUM
-### 4:PERIDERIDIA
-### 5:LIGUSTICUM
-### 6:CICUTA
-### 7:FOENUCULUM
-### 8:THASPIUM
-### 9:TAUSCHIA
-### 10:OXYPOLIS
-### 11:LOMATIUM
-## 4
-### 1:HERACLEUM
-### 2:ANGELICIA
-### 3:SPHENOSCIADIAUM
-### 4:PTERYXIA
-### 5:CYMOPTERUS
-### 6:ERYNGIUM
-### 7:IMPERATORIA
-## 5 EMPTY
-## 6 NEWSPAPER
-## 7 NEWSPAPER
-## 8
-### 1:BOX OF NOTE CARDS ??
-### 2:NEWSPAPER
-## 9 EMPTY
-## 10 EMPTY
-## 11 NEWSPAPER
-## 12
-### 0:LOOSE
-### 1:DUPLICATES
-### 2:---
-### 3:---
-### 4:---
-## 13
-### 0:LOOSE
+## H
+### H01_1_GAYOPHYTUM
+### H01_2_GAURU
+### H01_3_CIRCAEA
+### H01_4_STENOSIPHON
+### H01_5_MYRIOPHYULLUM
+### H01_6_HIPPURIS
+### H01_7_GUNNERA
+
+### H02_1_ARALIA
+### H02_2_UMBELLIFERAE
+### H02_3_HYDROCOTYLE
+### H02_4_BOWLESIA
+### H02_5_SANICULA
+### H02_6_CAUCALIS
+### H02_7_TORILIS
+### H02_8_CHAEROPHYLLUM
+### H02_9_ANTHRISCUS
+### H02_10_SCANDIX
+### H02_11_OSMORRHIZA
+
+### H03_1_DAUCUS
+### H03_2_CONIUM
+### H03_3_SIUM
+### H03_4_PERIDERIDIA
+### H03_5_LIGUSTICUM
+### H03_6_CICUTA
+### H03_7_FOENUCULUM
+### H03_8_THASPIUM
+### H03_9_TAUSCHIA
+### H03_10_OXYPOLIS
+### H03_11_LOMATIUM
+
+### H04_1_HERACLEUM
+### H04_2_ANGELICIA
+### H04_3_SPHENOSCIADIAUM
+### H04_4_PTERYXIA
+### H04_5_CYMOPTERUS
+### H04_6_ERYNGIUM
+### H04_7_IMPERATORIA
+
+### H05: empty
+### H06: newspaper
+### H07: newspaper
+
+### H08_1: box of note cards?
+### H08_2: newspaper
+
+### H09: empty
+### H10: empty
+### H11: newspaper
+
+### H12_0: loose
+### H12_1: Duplicates
+### H12_2
+### H12_3
+### H12_4
+
+### H13_0: loose
 
 ## I
 ### I01
