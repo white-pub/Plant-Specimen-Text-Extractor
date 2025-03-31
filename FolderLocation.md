@@ -322,7 +322,13 @@
 ### L03
 ### L04
 ### L05
-### L06
+
+### L06_1_LYCIUM
+### L06_2_HYOSCYAMUS
+### L06_3_CHAMAESARACHA
+### L06_4_PHYSALIS
+
+
 ### L07
 ### L08
 ### L09
