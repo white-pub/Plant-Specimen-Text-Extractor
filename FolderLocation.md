@@ -358,7 +358,12 @@
 ### N03
 ### N04
 ### N05
-### N06
+
+### N06_1_ARTEMISIA
+### N06_2_ADENOCAULON
+### N06_3_ARNICA
+### N06_4_RAILLARDELLA
+
 ### N07
 ### N08
 ### N09
