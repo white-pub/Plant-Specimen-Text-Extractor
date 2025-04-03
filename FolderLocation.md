@@ -2,7 +2,7 @@
 ## If a drawer of folder is all scanned, mark as "ALL SCANNED"
 - example: A02_1: ALL SCANNED
 
-- 
+  
 - Here is a list of stuff that need to be marked (and don't need to be scanned)
     - newspapers, mark as **'newspaper'**
     - boxes, mark as **'unscannable box'**
