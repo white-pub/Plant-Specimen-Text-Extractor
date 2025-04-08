@@ -1,6 +1,7 @@
 - This file contains additional information about the cabinets, drawers, and big folders.
 ## If a drawer of folder is all scanned, mark as "ALL SCANNED 💚❤️"
-- example:/
+- example:
+  
   **N05_1_ANTHEMIS: All SCANNED 💚❤️**
 
   
