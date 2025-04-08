@@ -394,7 +394,7 @@
 ### N02
 ### N03
 ### N04
-### N05_1_ANTHEMIS: All scanned 🎀
+### N05_1_ANTHEMIS: All scanned 🟩
 ### N05_2_ACHILLEA
 ### N05_3_HYMENOPAPPUS
 ### N05_4_CHRYSANTHEMUM
