@@ -433,7 +433,11 @@
 ### N08_9_MICROPUS: All SCANNED💚❤️
 ### N08_10_EVAX: All SCANNED💚❤️
 
-### N09
+### N09_1_BRICKELLIA: All SCANNED 💚❤️
+### N09_2_EUPATORIUM: All SCANNED 💚❤️
+### N09_3_VERONIA: All SCANNED 💚❤️
+### N09_4_MIKANIA: All SCANNED 💚❤️
+
 ### N10
 ### N11
 ### N12
