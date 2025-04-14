@@ -449,7 +449,7 @@
 ### N09_4_MIKANIA: All SCANNED 💚❤️
 
 ### N10_1_ARCTIUM: All SCANNED 💚❤️
-### N10_2_CIRSIUM:
+### N10_2_CIRSIUM: All SCANNED 💚❤️
 
 ### N11
 ### N12
