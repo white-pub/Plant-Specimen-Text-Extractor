@@ -511,10 +511,20 @@
 ### N09_3_VERONIA: All SCANNED 💚❤️
 ### N09_4_MIKANIA: All SCANNED 💚❤️
 
-### N10_1_ARCTIUM: All SCANNED 💚❤️
-### N10_2_CIRSIUM: All SCANNED 💚❤️
+### N10_1_ARCTIUM: ALL SCANNED 💚❤️
+### N10_2_CIRSIUM: ALL SCANNED 💚❤️
 
-### N11
+### N11_1_CARDUUS: ALL SCANNED 💚❤️
+### N11_2_CENTAUREA: ALL SCANNED 💚❤️
+### N11_3_CICHORIUM: ALL SCANNED 💚❤️
+### N11_4_NOTHOCALAIS: ALL SCANNED 💚❤️
+### N11_5_MICROSERIS: ALL SCANNED 💚❤️
+### N11_6_AGOSERIS: ALL SCANNED 💚❤️
+### N11_7_LYGODESMIA: ALL SCANNED 💚❤️
+### N11_8_PYRRHOPAPPUS: ALL SCANNED 💚❤️
+### N11_9_PHALACROSERIS: ALL SCANNED 💚❤️
+### N11_10_STEPHANOMERIA: ALL SCANNED 💚❤️
+
 ### N12
 ### N13
 
