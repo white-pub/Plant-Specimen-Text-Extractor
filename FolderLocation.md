@@ -536,10 +536,10 @@
 ### N13_1_SONCHUS: ALL SCANNED 💚❤️
 ### N13_2_LACTUCA: ALL SCANNED 💚❤️
 ### N13_3_PRENANTHES: ALL SCANNED 💚❤️
-### N13_4_HIERACIUM:
-### N13_5_CREPIS:
-### N13_6_TARAXACUM:
-### N13_7_LAPSANA:
+### N13_4_HIERACIUM: ALL SCANNED 💚❤️
+### N13_5_CREPIS: ALL SCANNED 💚❤️
+### N13_6_TARAXACUM: ALL SCANNED 💚❤️
+### N13_7_LAPSANA: ALL SCANNED 💚❤️
 
 ## O
 ### O01
@@ -587,8 +587,13 @@
 ### Q13
 
 ## R
-### R01
-### R02
+### R01_1_JUNCUS:
+### R01_2_LUZULA:
+
+### R02_1_XEROPHYLLUM:
+### R02_2_ZYGADENUS:
+### R02_3_VERATRUM:
+
 ### R03
 ### R04
 ### R05
